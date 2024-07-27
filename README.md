@@ -1,4 +1,4 @@
 # Projeto de autenticacao com o GOV.BR
-Reste repositório visa demonstrar como funciona autenticação com o portal gov.br
+Este repositório visa demonstrar o funcionamento das APIs de autenticação do portal gov.br
 
 https://clientelacrm.com
